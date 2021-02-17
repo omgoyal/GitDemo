@@ -16,10 +16,10 @@ public class App
         System.out.println( "Hello World!  4" );
         System.out.println( "Hello World!  5" );
         
-        System.out.println( "Architect changes 1" );
+        System.out.println( "" );
         System.out.println( "Architect changes 2" );
         
-        System.out.println( "US Architect changes 1" );
+        System.out.println( "" );
         System.out.println( "US Architect changes 2" );
         
         
