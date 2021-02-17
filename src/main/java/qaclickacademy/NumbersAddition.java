@@ -7,7 +7,7 @@ public class NumbersAddition {
 
 		
 		System.out.println(" add two numbers in given table");
-		System.out.println("there are 100 numbers in list which is positve and negative as well");
+		System.out.println("there are  which is positve and negative as well");
 		
 	}
 
