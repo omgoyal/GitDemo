@@ -6,7 +6,7 @@ public class NumbersSubtract {
 		// TODO Auto-generated method stub
 
 		System.out.println("as per  those numbers whose value is less than 100");
-		System.out.println("Subtraction result should be display in given format");
+		System.out.println("Subtraction result should be ");
 	}
 
 }
